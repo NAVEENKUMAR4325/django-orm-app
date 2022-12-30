@@ -27,7 +27,7 @@ Register the models with the Django admin site. In admin.py under app folder, re
 Run the python manage.py makemigrations and the python manage.py migrate commands to create the necessary database tables for the Employee model. Run the server using "python3 manage.py runserver 0:8000" command.
 
 ## PROGRAM
-
+```
 #IN models.py:-
 
 from django.db import models
@@ -50,13 +50,12 @@ from .models import Employee,EmployeeAdmin
 
 # Register your models here.
 admin.site.register(Employee,EmployeeAdmin)
-
+```
 ## OUTPUT
 
-### Output
 ![images](images/Output.png)
 
-### error
+
 ![images](images/Sameerror.png)
 
 ## RESULT
