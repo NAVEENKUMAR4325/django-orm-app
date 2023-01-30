@@ -53,10 +53,12 @@ admin.site.register(Employee,EmployeeAdmin)
 ```
 ## OUTPUT
 
-![images](./images/Output.png)
+![Output](https://user-images.githubusercontent.com/119479566/215529416-a72999de-ecc3-4100-91ca-6f8e3b28dc34.png)
 
 
-![images](./images/Sameerror.png)
+
+![Same error](https://user-images.githubusercontent.com/119479566/215529524-a61294ed-ae34-4c84-972f-15e4f95bf404.png)
+
 
 ## RESULT
 
